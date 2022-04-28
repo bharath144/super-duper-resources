@@ -1,0 +1,2 @@
+- [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+- [Tab Out](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
